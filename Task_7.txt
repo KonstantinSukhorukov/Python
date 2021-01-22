@@ -1,5 +1,0 @@
-company_1 joint-stock 10000 5000
-company_2 private 35000 18000
-company_3 state-owned 600000 615000
-company_4 private 210000 190000
-company_5 joint-stock 340000 275000
